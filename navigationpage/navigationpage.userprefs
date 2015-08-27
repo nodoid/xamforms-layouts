@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="iOS/navigationpage.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="navigationpage/LastPage.cs">
+    <Files>
+      <File FileName="navigationpage/navigationpage.cs" Line="13" Column="58" />
+      <File FileName="navigationpage/NavPage.cs" Line="9" Column="25" />
+      <File FileName="navigationpage/SecondPage.cs" Line="8" Column="28" />
+      <File FileName="navigationpage/ThirdPage.cs" Line="14" Column="151" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="navigationpage/LastPage.cs" Line="13" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

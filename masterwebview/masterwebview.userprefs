@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Droid/masterwebview.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="masterwebview/MasterPageView.cs">
+    <Files>
+      <File FileName="masterwebview/Webview.cs" Line="1" Column="1" />
+      <File FileName="masterwebview/WebviewGenerated.cs" Line="1" Column="1" />
+      <File FileName="masterwebview/MasterPageView.cs" Line="100" Column="6" />
+      <File FileName="masterwebview/masterwebview.cs" Line="11" Column="45" />
+      <File FileName="masterwebview/WebLauncherPage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/PFJ/Developer/Book2/Chapter 2/Layouts/masterwebview/masterwebview/Webview.cs" line="13" column="1" />
+      <Breakpoint file="/Users/PFJ/Dropbox/iOS book 2/Chapters/Final Source Code/Book2/Chapter 2/Layouts/masterwebview/masterwebview/MasterPageView.cs" line="48" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

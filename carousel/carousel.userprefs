@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="iOS/carousel.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="carousel/ViewPage.cs">
+    <Files>
+      <File FileName="../../../../Downloads/xamarin-forms-samples-master/FormsGallery/FormsGallery/FormsGallery/CarouselPageDemoPage.cs" Line="15" Column="13" />
+      <File FileName="carousel/carousel.cs" Line="12" Column="43" />
+      <File FileName="carousel/CarouselView.cs" Line="20" Column="45" />
+      <File FileName="carousel/ViewPage.cs" Line="12" Column="97" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

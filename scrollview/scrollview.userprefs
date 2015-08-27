@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="iOS/scrollview.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="scrollview/scrollview.cs">
+    <Files>
+      <File FileName="scrollview/scrollview.cs" Line="43" Column="44" />
+      <File FileName="../../../../Downloads/xamarin-forms-samples-master/FormsGallery/FormsGallery/FormsGallery/ScrollViewDemoPage.cs" Line="51" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
